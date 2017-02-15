@@ -1,0 +1,3 @@
+﻿  w4.cpp
+d:\dropbox\cpa\oop345\workshops\workshop4\w4.cpp : fatal error C1041: cannot open program database 'D:\Dropbox\CPA\OOP345\Workshops\workshop4\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
