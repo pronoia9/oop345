@@ -18,8 +18,6 @@ namespace w5
 	{
 		if (rhs.messageTable)
 		{
-			if (messageTable)
-				delete[] messageTable;
 			messageTable = new Message[MAX_SIZE];
 
 			messageCount = rhs.messageCount;
