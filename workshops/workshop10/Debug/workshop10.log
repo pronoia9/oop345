@@ -1,0 +1,6 @@
+﻿  w10.cpp
+  SecureData.cpp
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  workshop10.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop10\Debug\workshop10.exe
+  workshop10.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop10\Debug\workshop10.pdb (Partial PDB)
