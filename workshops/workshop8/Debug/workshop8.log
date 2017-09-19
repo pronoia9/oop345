@@ -1,0 +1,23 @@
+﻿  w8.cpp
+w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(84): note: while compiling class template member function 'void w8::DataTable<float>::regression(T &,T &) const'
+          with
+          [
+              T=float
+          ]
+  w:\dropbox\cpa\oop345\workshops\workshop8\w8.cpp(44): note: see reference to function template instantiation 'void w8::DataTable<float>::regression(T &,T &) const' being compiled
+          with
+          [
+              T=float
+          ]
+  w:\dropbox\cpa\oop345\workshops\workshop8\w8.cpp(38): note: see reference to class template instantiation 'w8::DataTable<float>' being compiled
+w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(90): warning C4018: '<': signed/unsigned mismatch
+w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(47): note: while compiling class template member function 'float w8::DataTable<float>::mean(void) const'
+  w:\dropbox\cpa\oop345\workshops\workshop8\w8.cpp(49): note: see reference to function template instantiation 'float w8::DataTable<float>::mean(void) const' being compiled
+w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(105): warning C4018: '<': signed/unsigned mismatch
+  w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(102): note: while compiling class template member function 'void w8::DataTable<float>::display(std::ostream &) const'
+  w:\dropbox\cpa\oop345\workshops\workshop8\datatable.h(117): note: see reference to function template instantiation 'void w8::DataTable<float>::display(std::ostream &) const' being compiled
+  workshop8.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop8\Debug\workshop8.exe
+  workshop8.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop8\Debug\workshop8.pdb (Partial PDB)
