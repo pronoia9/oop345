@@ -1,0 +1,5 @@
+﻿  w9.cpp
+w:\dropbox\cpa\oop345\workshops\workshop9\w9.cpp(17): warning C4018: '<': signed/unsigned mismatch
+w:\dropbox\cpa\oop345\workshops\workshop9\w9.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  workshop9.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop9\Debug\workshop9.exe
+  workshop9.vcxproj -> W:\Dropbox\CPA\OOP345\workshops\workshop9\Debug\workshop9.pdb (Partial PDB)
